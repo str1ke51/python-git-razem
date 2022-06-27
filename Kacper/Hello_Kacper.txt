@@ -1,3 +1,5 @@
 Cześć :)
 
 Nazywam się Kacper :)
+
+Commit 1
